@@ -1,0 +1,15 @@
+ Volume in drive D is Data
+ Volume Serial Number is 3C7B-3952
+
+ Directory of D:\Scr
+
+26.08.2025  13:00    <DIR>          .
+26.08.2025  13:00    <DIR>          ..
+26.08.2025  13:11                 0 dir_output.txt
+26.08.2025  13:11               162 log.txt
+26.08.2025  13:11               562 myscr.bat
+
+ Directory of D:\Scr
+
+               3 File(s)            724 bytes
+               2 Dir(s)  12 689 117 184 bytes free
